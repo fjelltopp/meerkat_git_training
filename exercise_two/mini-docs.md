@@ -13,3 +13,5 @@
 - *git status* - 
 
 - *git checkout* - 
+
+- *git add* - 
