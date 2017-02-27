@@ -1,0 +1,3 @@
+Today is:
+Number of training atendees:
+Overall mood is good! :)
