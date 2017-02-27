@@ -1,0 +1,1 @@
+In order to exclude a file from a project, update .gitignore file to include name of this file or an expression matchin it.
