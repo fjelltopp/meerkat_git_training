@@ -1,0 +1,7 @@
+total 5
+-rw-r--r-- 1 mohadmin 197121  6 Feb 28 13:57 eman.txt
+-rw-r--r-- 1 mohadmin 197121 14 Feb 28 13:57 ghada.txt
+-rw-r--r-- 1 mohadmin 197121 29 Feb 28 13:56 me.txt
+-rw-r--r-- 1 mohadmin 197121 63 Feb 28 13:57 mix.txt
+-rw-r--r-- 1 mohadmin 197121 45 Feb 28 13:57 mix2.txt
+-rw-r--r-- 1 mohadmin 197121  0 Feb 28 14:01 monther.txt
