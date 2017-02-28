@@ -1,0 +1,8 @@
+
+omar
+
+total 5
+drwxr-xr-x 1 mohadmin 197121   0 Feb 28 13:55 exercise_one/
+drwxr-xr-x 1 mohadmin 197121   0 Feb 28 13:39 exercise_two/
+-rw-r--r-- 1 mohadmin 197121   0 Feb 28 14:02 m.txt
+-rw-r--r-- 1 mohadmin 197121 705 Feb 28 13:39 README.md
