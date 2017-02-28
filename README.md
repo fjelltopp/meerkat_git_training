@@ -1,4 +1,4 @@
-Welcome to our git training repository
+### *Welcome* to our git training repository
 
 ### Exercise one, Pushing changes:
 	- Create a new `.txt` file in `exercise_one` directory with a short note from yourself.
